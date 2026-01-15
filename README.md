@@ -23,4 +23,4 @@ Retrieve the **top 50 customers by total account balance**, along with their **m
 
 This is a common reporting requirement in financial systems.
 
-### Read full doucmentation here
+### [Read full doucmentation here](https://github.com/Teekafey/MySQL-banking-system-performance/blob/main/Query%20Evolution%20%26%20Results.md)
